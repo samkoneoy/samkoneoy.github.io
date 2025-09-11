@@ -6,4 +6,4 @@ Disallow: /404.html
 Disallow: /*?page=
 
 # Sitemap location
-Sitemap: https://samkone.fi/sitemap.xml
+Sitemap: https://www.samkone.fi/sitemap.xml
