@@ -1,150 +1,142 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns:urlset xmlns:html="http://www.w3.org/1999/xhtml"
-    xmlns:ns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/</ns:loc>
-        <ns:priority>1.00</ns:priority>
+<ns0:urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/</ns0:loc>
+        <ns0:priority>1.00</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/" />
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/mallit</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/mallit</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/mallit" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/jalleenmyyjat</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/jalleenmyyjat</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/jalleenmyyjat" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/huollot</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/huollot</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/huollot" />
-        <ns:changefreq>yearly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/kampanjat</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>yearly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/kampanjat</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/kampanjat" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/kuva-ja-videot</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/kuva-ja-videot</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/kuva-ja-videot" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/yleista-tietoa</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/yleista-tietoa</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/yleista-tietoa" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/yhteystiedot</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/yhteystiedot</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/yhteystiedot" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/tietosuojaseloste</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/tietosuojaseloste</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/tietosuojaseloste" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/50-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/50-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/50-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/40-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/40-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/40-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/30-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/30-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/30-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/800-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/800-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/800-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/800-eco-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/800-eco-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/800-eco-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/mini-sarja</ns:loc>
-        <ns:priority>0.80</ns:priority>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/mini-sarja</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
         <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/mini-sarja" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/castloaders-genesis</ns:loc>
-        <ns:priority>0.80</ns:priority>
-        <html:link rel="alternate" hreflang="fi"
-            href="https://www.samkone.fi/malli/castloaders-genesis" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/malli/new-castloaders-840d</ns:loc>
-        <ns:priority>0.80</ns:priority>
-        <html:link rel="alternate" hreflang="fi"
-            href="https://www.samkone.fi/malli/new-castloaders-840d" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/heti-toimitukseen/825d</ns:loc>
-        <ns:priority>0.80</ns:priority>
-        <html:link rel="alternate" hreflang="fi"
-            href="https://www.samkone.fi/heti-toimitukseen/825d" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/heti-toimitukseen/33tlx-carbon</ns:loc>
-        <ns:priority>0.80</ns:priority>
-        <html:link rel="alternate" hreflang="fi"
-            href="https://www.samkone.fi/heti-toimitukseen/33tlx-carbon" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-    <ns:url>
-        <ns:loc>https://www.samkone.fi/heti-toimitukseen/eco800</ns:loc>
-        <ns:priority>0.80</ns:priority>
-        <html:link rel="alternate" hreflang="fi"
-            href="https://www.samkone.fi/heti-toimitukseen/eco800" />
-        <ns:changefreq>monthly</ns:changefreq>
-        <ns:lastmod>2025-09-09</ns:lastmod>
-    </ns:url>
-</ns:urlset>
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/castloaders-genesis</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
+        <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/castloaders-genesis" />
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/malli/new-castloaders-840d</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
+        <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/malli/new-castloaders-840d" />
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/heti-toimitukseen/825d</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
+        <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/heti-toimitukseen/825d" />
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/heti-toimitukseen/33tlx-carbon</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
+        <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/heti-toimitukseen/33tlx-carbon" />
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+    <ns0:url>
+        <ns0:loc>https://www.samkone.fi/heti-toimitukseen/eco800</ns0:loc>
+        <ns0:priority>0.80</ns0:priority>
+        <html:link rel="alternate" hreflang="fi" href="https://www.samkone.fi/heti-toimitukseen/eco800" />
+        <ns0:changefreq>monthly</ns0:changefreq>
+        <ns0:lastmod>2025-09-09</ns0:lastmod>
+    </ns0:url>
+</ns0:urlset>
